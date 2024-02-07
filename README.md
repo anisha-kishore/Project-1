@@ -40,7 +40,6 @@ This graph shows the most common injuries among players with heights in the lowe
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/044662a3-27cb-49fd-9c9d-7dbff910d759)
 
 This graph shows the most common injuries among players with heights in the upper quartile.
-As seen in these graphs, 
 
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/cd2b3f6e-eabc-4fed-aba3-a17e9e5ddd61)
 
@@ -52,5 +51,5 @@ This graph shows the most common injuries among players with weights in the lowe
 
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/64a17535-d36d-42de-9070-3c731e4a5e6a)
 
-This graph shows the most common injuries among players with weights in the upper quartile.
+This graph shows the most common injuries among players with weights in the upper quartile. As seen in these graphs and using Pearson correlation tests, the correlation for height with the most common injury (sprain) is very low and not statistically significant. There is no evidence to suggest that a player's height has a noticeable impact on the likelihood of sustaining the most common injury. However, the correlation between weight and sprain injuries, while statistically significant, is very weak.
 
