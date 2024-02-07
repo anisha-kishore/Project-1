@@ -2,7 +2,7 @@ Results and Written Analysis
 
 This projects attempts to uncover trends among NBA injuries over the past 18 years. 
 
-To start, we looked at the distribution of injuries by body part and injury type.
+To start, we looked at the distribution of injuries by body part and injury type. The analysis code for this data is contained in "Nicole_analysis.ipynb".
 
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/93694a7f-5b67-425f-af83-aeceb9908667)
 
@@ -15,7 +15,7 @@ Injuries in the lower limbs are by far the most common.
 As seen in this graph, the most common injury types are sprains, soreness, and
 ilnesses, respectively. The most common injury type seem to be more minor and broad.
 
-Next, we looked at NBA injuries over time. 
+Next, we looked at NBA injuries over time. The clean up code for this data is contained in “cpl_data_cleanup.ipynb”. The analysis code is contained in "cpl_analysis.ipynb".
 
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/ce422464-25b0-43a2-ada1-e209c66fea55)
 
