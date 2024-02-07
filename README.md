@@ -72,3 +72,5 @@ This graph the number of injuries that needed surgery by body part. Although sim
 Finally, we take a look at the most common recurring injuries. 
 
 The most common recurring injury among NBA players is an ankle sprain. 
+
+These findings can help medical staff, NBA players, or anyone working closely with the NBA to determine how to distribute resources, how and where to train a player's body, what preventative gear player's should wear, where to focus rehabilitation efforts, etc. This data can also be a model for other professional sports. With such a high grossing industry and such a large audience, injuries can make or break a franchise. This information can help the league take the necessary steps to avoid injuries and better the sport as a whole.
