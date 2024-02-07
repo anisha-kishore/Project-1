@@ -11,5 +11,12 @@ Injuries in the lower limbs are by far the most common.
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/91874070-96c8-414d-8034-7c2291560c61)
 
 As seen in this graph, the most common injury types are sprains, soreness, and
-ilnesses, respectively. The most common injury type seem to be more minor and broad,
+ilnesses, respectively. The most common injury type seem to be more minor and broad.
+
+Next, we looked at NBA injuries over time. 
+![image](https://github.com/anisha-kishore/Project-1/assets/154575922/ce422464-25b0-43a2-ada1-e209c66fea55)
+
+The graph shows the most common injuries per season. Sprains remain consitently common, while 
+strains start of common before dropping off and being replaced by soreness.
+
 
