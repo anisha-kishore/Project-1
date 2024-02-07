@@ -1,3 +1,15 @@
+Results and Written Analysis
+
 This projects attempts to uncover trends among NBA injuries over the past 18 years. 
 
 To start, we looked at the distribution of injuries by body part and injury type.
+![image](https://github.com/anisha-kishore/Project-1/assets/154575922/93694a7f-5b67-425f-af83-aeceb9908667)
+
+As seen on the graph, the most common body parts injured are the ankle, leg, and 
+knee, respectively, before a sharp drop off to the third most common injury location. 
+Injuries in the lower limbs are by far the most common.
+![image](https://github.com/anisha-kishore/Project-1/assets/154575922/91874070-96c8-414d-8034-7c2291560c61)
+
+As seen in this graph, the most common injury types are sprains, soreness, and
+ilnesses, respectively. The most common injury type seem to be more minor and broad,
+
