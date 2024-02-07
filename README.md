@@ -15,7 +15,7 @@ Injuries in the lower limbs are by far the most common.
 As seen in this graph, the most common injury types are sprains, soreness, and
 ilnesses, respectively. The most common injury type seem to be more minor and broad.
 
-Next, we looked at NBA injuries over time. The clean up code for this data is contained in “cpl_data_cleanup.ipynb”. The analysis code is contained in "cpl_analysis.ipynb".
+Next, we looked at NBA injuries over time. The clean up code for this data is contained in “cpl_data_cleanup.ipynb”. The analysis code is contained in "cpl_analysis.ipynb". As part of the cleanup to ensure that injuries between seasons were independent for the Chi Square analysis, all injuries marked as being from the previous season were removed.
 
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/ce422464-25b0-43a2-ada1-e209c66fea55)
 
