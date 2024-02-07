@@ -20,9 +20,10 @@ Next, we looked at NBA injuries over time.
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/ce422464-25b0-43a2-ada1-e209c66fea55)
 
 The graph shows the most common injuries per season. Strains start off common before dropping off and being replaced by soreness.
-Strain injuries showed to be a consistent source of injuries across all NBA seasons since 2005 and has trended upward in the recent seasons. This relationship was shown using a Chi-Square analysis between the two variables. Illness also tracked consistently throughout the seasons apart from a spike in 2021-2022. A Chi Square analysis was also done here to show evidence of a relationship between the two variables. 
+Sprain injuries showed to be a consistent source of injuries across all NBA seasons since 2005 and has trended upward in the recent seasons. This relationship was shown using a Chi-Square analysis between the two variables.
 
 ![image](https://github.com/anisha-kishore/Project-1/assets/154575922/5ace8d53-b4d4-4e0c-8e44-141046f2f113)
 
 This graph shows the ratio of ilnesses to other injuries by season. There is a definite spike in the 2021-2022 season. 
-This could potentially be due to COVID as the restrictions lifted and the "bubble" was no more.
+This could potentially be due to COVID as the restrictions lifted and the "bubble" was no more. A Chi Square analysis was also done here to show evidence of a relationship between the two variables. 
+
